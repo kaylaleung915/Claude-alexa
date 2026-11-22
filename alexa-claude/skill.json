@@ -1,0 +1,155 @@
+{
+    "manifest": {
+        "publishingInformation": {
+            "locales": {
+                "en-US": {
+                    "name": "chat",
+                    "summary": "Claude in Alexa",
+                    "description": "Alexa skill that uses the Anthropic API to answer with Claude",
+                    "examplePhrases": [
+                        "Alexa chat"
+                    ],
+                    "keywords": []
+                },
+                "en-GB": {
+                    "name": "chat",
+                    "summary": "Claude in Alexa",
+                    "description": "Alexa skill that uses the Anthropic API to answer with Claude",
+                    "examplePhrases": [
+                        "Alexa chat"
+                    ],
+                    "keywords": []
+                },
+                "en-CA": {
+                    "name": "chat",
+                    "summary": "Claude in Alexa",
+                    "description": "Alexa skill that uses the Anthropic API to answer with Claude",
+                    "examplePhrases": [
+                        "Alexa chat"
+                    ],
+                    "keywords": []
+                },
+                "en-IN": {
+                    "name": "chat",
+                    "summary": "Claude in Alexa",
+                    "description": "Alexa skill that uses the Anthropic API to answer with Claude",
+                    "examplePhrases": [
+                        "Alexa chat"
+                    ],
+                    "keywords": []
+                },
+                "en-AU": {
+                    "name": "chat",
+                    "summary": "Claude in Alexa",
+                    "description": "Alexa skill that uses the Anthropic API to answer with Claude",
+                    "examplePhrases": [
+                        "Alexa chat"
+                    ],
+                    "keywords": []
+                },
+                "es-ES": {
+                    "name": "chat",
+                    "summary": "Claude in Alexa",
+                    "description": "Alexa skill that uses the Anthropic API to answer with Claude",
+                    "examplePhrases": [
+                        "Alexa chat"
+                    ],
+                    "keywords": []
+                },
+                "es-MX": {
+                    "name": "chat",
+                    "summary": "Claude in Alexa",
+                    "description": "Alexa skill that uses the Anthropic API to answer with Claude",
+                    "examplePhrases": [
+                        "Alexa chat"
+                    ],
+                    "keywords": []
+                },
+                "es-US": {
+                    "name": "chat",
+                    "summary": "Claude in Alexa",
+                    "description": "Alexa skill that uses the Anthropic API to answer with Claude",
+                    "examplePhrases": [
+                        "Alexa chat"
+                    ],
+                    "keywords": []
+                },
+                "fr-FR": {
+                    "name": "chat",
+                    "summary": "Claude in Alexa",
+                    "description": "Alexa skill that uses the Anthropic API to answer with Claude",
+                    "examplePhrases": [
+                        "Alexa chat"
+                    ],
+                    "keywords": []
+                },
+                "fr-CA": {
+                    "name": "chat",
+                    "summary": "Claude in Alexa",
+                    "description": "Alexa skill that uses the Anthropic API to answer with Claude",
+                    "examplePhrases": [
+                        "Alexa chat"
+                    ],
+                    "keywords": []
+                },
+                "ja-JP": {
+                    "name": "chat",
+                    "summary": "Claude in Alexa",
+                    "description": "Alexa skill that uses the Anthropic API to answer with Claude",
+                    "examplePhrases": [
+                        "Alexa chat"
+                    ],
+                    "keywords": []
+                },
+                "de-DE": {
+                    "name": "chat",
+                    "summary": "Claude in Alexa",
+                    "description": "Alexa skill that uses the Anthropic API to answer with Claude",
+                    "examplePhrases": [
+                        "Alexa chat"
+                    ],
+                    "keywords": []
+                },
+                "it-IT": {
+                    "name": "chat",
+                    "summary": "Claude in Alexa",
+                    "description": "Alexa skill that uses the Anthropic API to answer with Claude",
+                    "examplePhrases": [
+                        "Alexa chat"
+                    ],
+                    "keywords": []
+                },
+                "hi-IN": {
+                    "name": "chat",
+                    "summary": "Claude in Alexa",
+                    "description": "Alexa skill that uses the Anthropic API to answer with Claude",
+                    "examplePhrases": [
+                        "Alexa chat"
+                    ],
+                    "keywords": []
+                },
+                "pt-BR": {
+                    "name": "chat",
+                    "summary": "Claude in Alexa",
+                    "description": "Alexa skill that uses the Anthropic API to answer with Claude",
+                    "examplePhrases": [
+                        "Alexa chat"
+                    ],
+                    "keywords": []
+                }
+            },
+            "isAvailableWorldwide": true,
+            "testingInstructions": "Sample Testing Instructions",
+            "distributionCountries": []
+        },
+        "apis": {
+            "custom": {
+                "endpoint": {
+                    "sourceDir": "lambda",
+                    "uri": "ask-custom-alexa-claude-default"
+                }
+            }
+        },
+        "manifestVersion": "1.0"
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "chat",
+            "intents": [
+                {
+                    "name": "ClaudeQueryIntent",
+                    "slots": [
+                        {
+                            "name": "query",
+                            "type": "AMAZON.Person"
+                        }
+                    ],
+                    "samples": [
+                        "{query}"
+                    ]
+                },
+                {
+                    "name": "ClearContextIntent",
+                    "samples": [
+                        "clear history",
+                        "clear the history",
+                        "start over",
+                        "forget our conversation",
+                        "new conversation"
+                    ]
+                },
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                }
+            ],
+            "types": []
+        }
+    }
+}
